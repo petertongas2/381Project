@@ -1,0 +1,14 @@
+{
+  "name": "381project-group<number>",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "express-session": "*",
+    "mongoose": "*",
+    "ejs": "*"
+  }
+}
